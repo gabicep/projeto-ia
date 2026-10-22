@@ -70,7 +70,6 @@ function mostraAlternativas() {
   }
 }
 
-mostraPergunta();
 function respostaSelecionada(opcaoSelecionada) {
   historiaFinal += opcaoSelecionada + " ";
   atual++;
